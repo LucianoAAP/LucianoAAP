@@ -1,4 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoAAP)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/LucianoAAP">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoAAP&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoAAP&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **LucianoAAP/LucianoAAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
