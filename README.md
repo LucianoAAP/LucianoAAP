@@ -37,7 +37,7 @@ const aboutLuciano = {
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
 <a href="https://github.com/LucianoAAP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoAAP&theme=algolia&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoAAP&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoAAP&theme=buefy&layout=compact" />
 </a>
 
