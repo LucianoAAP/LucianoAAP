@@ -4,7 +4,7 @@
 
 ```javascript
 const aboutLuciano = {
-  learning: 'Full stack development',
+  learning: 'Full stack development at Trybe',
   graduation: 'Mechanical engineering at Federal University of Minas Gerais',
   mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node'],
   hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
