@@ -22,8 +22,8 @@ const aboutLuciano = {
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 - 💻 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
