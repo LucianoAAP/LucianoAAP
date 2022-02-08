@@ -52,7 +52,7 @@ const aboutLuciano = {
 <a href="mailto:lucianoalmeidaap@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucianoalmeidaap@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-This README was inspired by a public template provided by [AVS1508](https://github.com/AVS1508).
+This README was inspired by a public template provided by [AVS1508](https://github.com/AVS1508) in [here](https://github.com/kautukkundan/Awesome-Profile-README-templates).
 
 <!--
 **LucianoAAP/LucianoAAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
