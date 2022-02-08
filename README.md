@@ -8,7 +8,7 @@ const aboutLuciano = {
   graduation: 'Mechanical engineering at Federal University of Minas Gerais',
   mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node'],
   hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
-  motto: 'If you always do what you already can, you'll always be who you already are',
+  motto: 'If you always do what you already can, you'll always be who you already are.',
 };
 ```
 
