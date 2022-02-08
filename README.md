@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Luciano.</h2>
 
-<h3> About me </h3>
+<h3> About Me </h3>
 
 ```javascript
 const aboutLuciano = {
