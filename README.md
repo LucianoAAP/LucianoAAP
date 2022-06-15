@@ -7,7 +7,7 @@ const aboutLuciano = {
   learning: 'Java',
   graduation: 'Mechanical engineering at Federal University of Minas Gerais',
   developmentSchool: 'Trybe',
-  mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node'],
+  mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node', 'Python'],
   hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
   motto: 'If you always do what you already can, you'll always be who you already are.',
 };
