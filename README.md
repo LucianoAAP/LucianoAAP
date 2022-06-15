@@ -4,8 +4,9 @@
 
 ```javascript
 const aboutLuciano = {
-  learning: 'Full stack development at Trybe',
+  learning: 'Java',
   graduation: 'Mechanical engineering at Federal University of Minas Gerais',
+  developmentSchool: 'Trybe',
   mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node'],
   hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
   motto: 'If you always do what you already can, you'll always be who you already are.',
