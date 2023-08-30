@@ -4,10 +4,10 @@
 
 ```javascript
 const aboutLuciano = {
-  learning: 'Java',
+  learning: 'DevExpress',
   graduation: 'Mechanical engineering at Federal University of Minas Gerais',
   developmentSchool: 'Trybe',
-  mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node', 'Python'],
+  mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node', 'Python', 'Java'],
   hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
   motto: 'If you always do what you already can, you'll always be who you already are.',
 };
