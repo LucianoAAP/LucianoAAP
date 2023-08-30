@@ -37,11 +37,14 @@ const aboutLuciano = {
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![AWS](https://img.shields.io/badge/AWS-333333?style=style=flat&logo=amazon-aws)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
 - 🖥 &nbsp;
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
 <a href="https://github.com/LucianoAAP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoAAP&theme=react&show_icons=true" />
