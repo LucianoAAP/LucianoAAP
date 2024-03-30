@@ -4,7 +4,7 @@
 
 ```javascript
 const aboutLuciano = {
-  learning: 'DevExpress',
+  learning: 'NestJS',
   graduation: 'Mechanical engineering at Federal University of Minas Gerais',
   developmentSchool: 'Trybe',
   mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node', 'Python', 'Java'],
