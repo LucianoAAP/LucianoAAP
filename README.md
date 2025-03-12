@@ -4,10 +4,10 @@
 
 ```javascript
 const aboutLuciano = {
-  learning: 'NestJS',
+  learning: 'Kotlin',
   graduation: 'Mechanical engineering at Federal University of Minas Gerais',
   developmentSchool: 'Trybe',
-  mainStacks: ['Javascript', 'HTML', 'CSS', 'React', 'Node', 'Python', 'Java'],
+  mainStacks: ['Javascript', 'Typescript, 'HTML', 'CSS', 'React', 'Node', 'Python', 'Java'],
   hobbies: ['Gaming', 'Movies', 'Series', 'Card games with friends!'],
   motto: 'If you always do what you already can, you'll always be who you already are.',
 };
@@ -19,6 +19,7 @@ const aboutLuciano = {
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
@@ -28,11 +29,13 @@ const aboutLuciano = {
 - 💻 &nbsp;
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![Nest](https://img.shields.io/badge/-Nest-333333?style=flat&logo=nest)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
